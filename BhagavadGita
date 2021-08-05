@@ -2,6 +2,16 @@
    
 "godest.gita.bhagavadgita": [     
           {
+                "name": "Bhagavad Gita - Chapter 01 (Complete Hindi translation)",
+                "image": "https://i.ytimg.com/vi/jrNPW9h1uIs/hqdefault.jpg",
+                "id": "PLzz9KpK4CcMNGbRW1Qsj0slFo3KmVWd3R",
+                "api": "AIzaSyA23rWWmhsagR5xg60GTyVhmumKD0BlcO4"                            
+        },{
+                "name": "Bhagavad Gita in Simple Hindi Introduction",
+                "image": "https://i.ytimg.com/vi/KKw0KWPB1Sg/hqdefault.jpg",
+                "id": "PLxJTk-r2H45OBpnE5zsOT9R9v3l2B2dGh",
+                "api": "AIzaSyA23rWWmhsagR5xg60GTyVhmumKD0BlcO4"                            
+        },{
                 "name": "Bhagavad Gita - Anuradha Paudwal",
                 "image": "https://i.ytimg.com/vi/9H-XIUq1Ldc/hqdefault.jpg",
                 "id": "PL647B770AEF6ED448",
@@ -41,7 +51,17 @@
                 "image": "https://i.ytimg.com/vi/oUhlvSDdPE8/hqdefault.jpg",
                 "id": "PLpoJsgOJl4FGwMcWUFGF7BhkDIwznAdT-",
                 "api": "AIzaSyA23rWWmhsagR5xg60GTyVhmumKD0BlcO4"    			
-        }                              
+        },{
+               "name": "Bhagavad Gita Chapters 1&2 (Tamil) - 1/15",
+                "image": "https://i.ytimg.com/vi/qPG9XkLwkIE/hqdefault.jpg",
+                "id": "PL4MKKRS02tn0MSQZ0N4xYy83hAKiFU31O",
+                "api": "AIzaSyA23rWWmhsagR5xg60GTyVhmumKD0BlcO4"    			
+        },{
+               "name": "The Bhagavad Gita in Simple English Introduction",
+                "image": "https://i.ytimg.com/vi/01kKrxjxXhc/hqdefault.jpg",
+                "id": "PLxJTk-r2H45OBWVuzL1cCjZ0OczzLsfiO",
+                "api": "AIzaSyA23rWWmhsagR5xg60GTyVhmumKD0BlcO4"    			
+        }                             
 			]		
 				
 }
